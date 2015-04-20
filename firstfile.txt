@@ -1,3 +1,5 @@
 This is my first file
 
 New string.
+
+It comes before all other files.

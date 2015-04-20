@@ -1,3 +1,5 @@
 It's third file.
 
 New string in third file.
+
+This is last file of all now.
